@@ -9,10 +9,16 @@ Tomb needs a few programs to be installed on a system in order to work:
  * gnupg
  * cryptsetup
  * pinentry-curses (and/or -gtk-2, -x11, -qt)
-
+ * libcanberra-gtk-module
+ 
 Most systems provide these tools in their package collection, for
 instance on Debian/Ubuntu one can use `apt-get install` on Fedora and
 CentOS one can use `yum install` and `pacman` on Arch.
+
+## Install the dependencies
+
+On Debian
+    apt-get -y install sudo zsh gnupg cryptsetup libcanberra-gtk-module
 
 ## Install Tomb
 
