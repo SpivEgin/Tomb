@@ -17,7 +17,7 @@ CentOS one can use `yum install` and `pacman` on Arch.
 
 ## Install the dependencies
 
-On Debian
+## On Debian
     apt-get -y install sudo zsh gnupg cryptsetup libcanberra-gtk-module
 
 ## Install Tomb
