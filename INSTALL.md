@@ -27,7 +27,7 @@ from https://files.dyne.org/tomb and decompress it. From a terminal:
 
     cd Downloads
     wget https://files.dyne.org/tomb/tomb-2.2.tar.gz
-    tar xvfz Tomb-2.0.1.tar.gz (correct with actual file name)
+    tar xvfz tomb-2.2.tar.gz
 
 Then enter its directory and run 'make install' as root, this will install
 Tomb into /usr/local:
