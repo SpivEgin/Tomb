@@ -31,8 +31,8 @@ from https://files.dyne.org/tomb and decompress it. From a terminal:
 
 Then enter its directory and run 'make install' as root, this will install
 Tomb into /usr/local:
-
-    cd Tomb-2.0.1 (correct with actual directory name)
+                    (correct with actual directory name)
+    cd tomb-2.2 
     sudo make install
 
 After installation one can read the commandline help or read the manual:
